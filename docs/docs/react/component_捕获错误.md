@@ -7,7 +7,7 @@ tags:
 categories:
   - react
 date:  2025/06/03 20:01:27
-permalink: /article/ytx1h69s/
+permalink: /article/react/catch
 
 ---
 

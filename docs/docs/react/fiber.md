@@ -7,7 +7,7 @@ tags:
 categories:
   - react
 date:  2025/06/03 20:01:27
-permalink: /article/89qdsx73/
+permalink: /article/react/fiber
 
 ---
 

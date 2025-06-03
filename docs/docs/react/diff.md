@@ -7,7 +7,7 @@ tags:
 categories:
   - react
 date:  2025/06/03 20:01:27
-permalink: /article/gl0jghh0/
+permalink: /article/react/diff
 
 ---
 

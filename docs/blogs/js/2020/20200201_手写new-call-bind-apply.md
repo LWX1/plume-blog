@@ -6,7 +6,7 @@ tags:
 categories:
   - js
 date:  2025/06/03 20:00:23
-permalink: /article/8t3dy9wc/
+permalink: /article/js/apply
 
 ---
 

@@ -6,7 +6,7 @@ tags:
 categories:
   - three
 date:  2025/06/03 20:01:27
-permalink: /article/bz46fgnz/
+permalink: /article/three/intro
 
 ---
 

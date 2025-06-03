@@ -7,7 +7,8 @@ tags:
 categories:
   - typescript
 date:  2025/06/03 20:01:27
-permalink: /article/6s55eik0/
+permalink: /article/ts/inter
+
 
 ---
 

@@ -3,7 +3,7 @@ title: 基本配置
 createTime:  2020-10-3
 isShowComments: false
 date:  2025/06/03 20:01:27
-permalink: /article/kaweumge/
+permalink: /article/webpack/base
 
 ---
 

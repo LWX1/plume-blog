@@ -6,8 +6,7 @@ tags:
 categories:
   - webpack
 date:  2025/06/03 20:00:23
-permalink: /article/pfnj4sr7/
-
+permalink: /article/other/webpack
 ---
 
 # 简介

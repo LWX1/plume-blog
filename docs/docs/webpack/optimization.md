@@ -3,7 +3,8 @@ title: 手写loader,plugin
 createTime:  2020-10-5
 isShowComments: false
 date:  2025/06/03 20:01:27
-permalink: /article/0kdgmben/
+permalink: /article/webpack/opt
+
 
 ---
 

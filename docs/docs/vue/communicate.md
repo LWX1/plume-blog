@@ -2,8 +2,9 @@
 title: 组件通讯
 createTime:  2020-3-2
 isShowComments: false
-date:  2025/06/03 20:01:27
-permalink: /article/jxht9w04/
+date:  2025/06/03 20:01:
+permalink: /article/vue/comm
+
 
 ---
 ## vue组件
@@ -84,8 +85,8 @@ mounted() {
 ```
 #### 3. $attrs/$listeners
 - 多级数组嵌套传递数据时，通常是使用vuex；但当数据不做处理，且只有小部分需要多层传，我们可以试一下$attrs/$listeners；
-- <span style="color: #1890ff">$attrs：</span>父组件中不被prop获取的特性绑定（class和style除外）和组件中没在prop中声明的变量都可以在$attrs中获取到   
-- <span style="color: #1890ff">$listeners：</span>父作用域中的 (不含 .native 修饰器的) v-on 事件监听器。
+- <span style="color: #1890ff"> \$attrs：</span>父组件中不被prop获取的特性绑定（class和style除外）和组件中没在prop中声明的变量都可以在\$attrs中获取到   
+- <span style="color: #1890ff"> $listeners：</span>父作用域中的 (不含 .native 修饰器的) v-on 事件监听器。
 ```
 // app组件
 <Parent

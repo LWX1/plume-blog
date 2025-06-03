@@ -6,7 +6,7 @@ tags:
 categories:
   - es6
 date:  2025/06/03 20:00:23
-permalink: /article/8y98fr5w/
+permalink: /article/js/proxy
 
 ---
 
