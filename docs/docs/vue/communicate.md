@@ -2,8 +2,8 @@
 title: 组件通讯
 createTime:  2020-3-2
 isShowComments: false
-date:  2025/06/03 20:01:
-permalink: /article/vue/comm
+date:  2025/06/03 20:01
+
 
 
 ---

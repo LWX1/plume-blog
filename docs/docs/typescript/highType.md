@@ -3,7 +3,7 @@ title: 高级类型（接口、泛型）
 createTime:  2020-07-10T00:00:00.000Z
 isShowComments: false
 date:  2025/06/03 20:01:27
-permalink: /article/ts/highType
+
 
 ---
 

@@ -2,7 +2,7 @@
 title: plugin配置
 createTime: 2020-10-4
 isShowComments: false
-permalink: /article/webpack/plugin
+
 date: 2025/06/03 20:01:27
 excerpt: '插件'
 ---
