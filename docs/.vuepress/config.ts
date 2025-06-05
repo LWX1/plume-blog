@@ -102,7 +102,9 @@ export default defineUserConfig({
     // },
 
     /* 文章字数统计、阅读时间，设置为 false 则禁用 */
-    // readingTime: true,
+    readingTime:{
+      wordPerMinute: 300
+    },
 
     /**
       * markdown
@@ -181,4 +183,8 @@ export default defineUserConfig({
      */
     // encrypt: {},
   }),
+
+  plugins: [
+
+  ]
 })

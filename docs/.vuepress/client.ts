@@ -7,6 +7,7 @@ import { defineClientConfig } from 'vuepress/client'
 // import CustomComponent from './theme/components/Custom.vue'
 
 // import './theme/styles/custom.css'
+import Ball from './components/ball.vue'
 
 export default defineClientConfig({
   enhance({ app }) {
@@ -17,6 +18,6 @@ export default defineClientConfig({
     // app.component('Swiper', Swiper) // you should install `swiper`
 
     // your custom components
-    // app.component('CustomComponent', CustomComponent)
+    app.component('Ball', Ball)
   },
 })
