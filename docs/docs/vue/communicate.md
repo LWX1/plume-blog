@@ -3,7 +3,10 @@ title: 组件通讯
 createTime:  2020-3-2
 isShowComments: false
 date:  2025/06/03 20:01
-
+tags:
+  - vue
+categories:
+  - vue
 
 
 ---
