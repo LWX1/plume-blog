@@ -2,6 +2,8 @@
 title: vue
 createTime:  2020-11-01
 isShowComments: false
+config:
+  - type: custom
 tags:
     - vue
 categories:

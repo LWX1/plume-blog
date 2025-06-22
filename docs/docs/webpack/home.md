@@ -2,6 +2,10 @@
 title: webpack5
 createTime:  2020-10-3
 isShowComments: false 
+tags:
+  - webpack
+categories:
+  - webpack
 ---
 ![原理图](/img/webpack/header.png)
 

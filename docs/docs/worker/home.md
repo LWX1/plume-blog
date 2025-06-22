@@ -2,6 +2,10 @@
 title: worker
 createTime:  2024-3-3
 isShowComments: false 
+tags:
+  - worker
+categories:
+  - worker
 ---
 
 ## 什么是worker

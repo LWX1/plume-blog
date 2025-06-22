@@ -1,7 +1,11 @@
 ---
-title: worker
+title: worker使用
 createTime:  2024-3-3
 isShowComments: false 
+tags:
+  - worker
+categories:
+  - worker
 ---
 
 
@@ -11,13 +15,11 @@ isShowComments: false
 - 创建 worker 只需要通过 new 调用 Worker() 构造函数即可
 
 ```ts
-
 const worker = new Worker(path, options);
-
 ```
 
 > [!TIP]
-path路径为有效的js脚本的地址，必须遵守同源策略。无效的js地址或者违反同源策略，会抛出SECURITY_ERR 类型错误
+> path路径为有效的js脚本的地址，必须遵守同源策略。无效的js地址或者违反同源策略，会抛出SECURITY_ERR 类型错误
 
 
 ## 线程通讯

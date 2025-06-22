@@ -13,6 +13,6 @@ export default defineNavbarConfig([
   { text: '时间', link: '/blog/archives/' },
   // {
   //   text: '笔记',
-  //   items: [{ text: '示例', link: '/notes/demo/README.md' }]
+  //   items: [{ text: '乾坤', link: '/docs/qiankun/README.md' }]
   // },
 ])

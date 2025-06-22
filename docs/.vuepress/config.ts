@@ -23,7 +23,7 @@ export default defineUserConfig({
     // 配置站点图标
     ['link', { rel: 'icon', type: 'image/png', href: '/img/logo.png' }],
   ],
-
+  
   bundler: viteBundler(),
   shouldPrefetch: false, // 站点较大，页面数量较多时，不建议启用
 
@@ -54,6 +54,8 @@ export default defineUserConfig({
       categories: true, // 是否启用分类页
       postCover: 'right', // 文章封面位置
       pagination: 15, // 每页显示文章数量
+      exclude: ['.vuepress/'],
+      include: ['**/*.md'],
     },
 
     /* 博客文章页面链接前缀 */
